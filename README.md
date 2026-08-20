@@ -2,6 +2,16 @@
   <img src="assets/banner.svg" alt="FLAABY (Flappy Dino) pixel-art banner" width="640">
 </p>
 
+> ### 👤 Student Profile
+> * **Name:** Soumyadip Karforma
+> * **City:** Asansol
+> * **State:** West Bengal
+> * **Country:** India
+
+> ### 🎥 Project Video
+> * **Presentation URL:** [Watch on YouTube](https://youtu.be/OL2s49dfkAQ)
+> * **Direct Link:** `https://youtu.be/OL2s49dfkAQ`
+
 # FLAABY (Flappy Dino)
 
 A tiny, addictive flappy-style game in the dino's monochrome pixel look - white pixels on dark gray, a chunky pixel font, translucent clouds, and a scrolling dashed ground. It runs everywhere: as a Chrome extension (Alt+Shift+F), as a standalone webpage, and on your phone. No dependencies, no build step, no assets to download - one file of JavaScript, pure canvas.
